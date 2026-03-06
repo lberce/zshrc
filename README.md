@@ -9,5 +9,9 @@ A: Clone the repository and follow the installation instructions above.
 **Q: Is this production ready?**
 A: This is currently in active development. Use at your own risk.
 
-**Q: How can I contribute?**
-A: See the Contributing section above.
+## Features
+- Easy to customize
+- Supports various plugins
+
+## Installation
+Clone the repository and follow the installation instructions in the documentation.
